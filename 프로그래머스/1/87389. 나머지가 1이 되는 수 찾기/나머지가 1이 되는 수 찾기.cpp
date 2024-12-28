@@ -4,9 +4,7 @@
 using namespace std;
 
 int solution(int n) {
-    
-    int temp;
-    
+        
     for(int i=1; i<=n; i++)
     {
         if(n%i==1)
